@@ -385,7 +385,10 @@ footer{
             - bottom: 16px
             - left: 60px
 */
-#section2 div > p:last-of-type{
+#section2 div > p:last-of-type{ 
+    background-color: var(--teal-rgba);
+    border: 4px dashed var(--dk-gray);
+
     
 }
 
